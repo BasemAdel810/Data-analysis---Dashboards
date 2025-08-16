@@ -24,4 +24,5 @@ It provides insights into sales, revenue, profit, discounts, and customer behavi
 ## How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/YourUsername/Data-Analysis-Dashboard.git
+   git clone https://github.com/BasemAdel810/Data-Analysis-Dashboard.git
+
